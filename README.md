@@ -1,3 +1,7 @@
+# rustling solutions
+These are my own solutions to rustling. 
+The solutions are to be found where normally the exercises would be found (i.e. in the "exercises" folder).
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
